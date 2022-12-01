@@ -31,6 +31,9 @@ choosing.
 16) Review and create the VM, this will deploy it.
 17) The VM's public IP can be obtained by clicking on the virtual machine resource in Home.
 
+18) If on windows: Install openssh client found here: https://phoenixnap.com/kb/generate-ssh-key-windows-10
+19) If under Windows: Launch Putty (Install if not installed already): https://www.linuxbabe.com/firewall/ssh-dynamic-port-forwarding
+
 ## Create New User
 1) On the cloud VM, acquire admin shell by logging into the VM with the ssh key used to
 
